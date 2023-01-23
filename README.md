@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohdazriyazid
-- 👀 I’m interested in web programming
+- 👀 I’m interested in web programming and network security
 - 🌱 I’m currently learning html,css, and js
 - 💞️ I’m looking to collaborate on web development
 - 📫 Reach me thru email mohdazriyazid@gmail.com 
